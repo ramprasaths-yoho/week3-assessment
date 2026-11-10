@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+torch
+gensim
+transformers>=4.41
+accelerate
+fastapi
+uvicorn
+httpx
